@@ -49,5 +49,5 @@ Excel · Visio · Outlook · Word · PowerPoint
 ### 📫 Connect & Reach Me
 
 - 💼 **LinkedIn:** www.linkedin.com/in/mojtabaataei
-- 📧 **Email:** mojtaba.ataei.network@gmail.com
+- 📧 **Email:** mojtaba.ataei.net@gmail.com
 - 🐙 **GitHub:** github.com/MojtabaAtaei
