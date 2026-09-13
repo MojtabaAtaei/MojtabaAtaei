@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Mojtaba 👋
 
-<!--
-**MojtabaAtaei/MojtabaAtaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT enthusiast focused on **System Integration, Networking, Automation, and IT Security** — building practical projects step by step toward an Ausbildung as a **Fachinformatiker für Systemintegration** in Germany 🇩🇪.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills & Technologies
+
+- **Windows Server & System Administration** · PowerShell
+- **Networking & Cisco** · Network Fundamentals · Cisco Automation with Python
+- **Linux & Bash Scripting** · Linux Administration
+- **Python & Automation**
+- **IT Security** · Security Fundamentals
+- **Microsoft Azure & Cloud Fundamentals**
+- **Docker & Containerization**
+- **SQL & Databases**
+- **Git & GitHub**
+
+---
+
+### 📂 Projects
+
+- **[XTicO](https://github.com/MojtabaAtaei/XTicO)** — Command-line Tic-Tac-Toe game built with Python.
+
+More projects in progress, focused on **networking, Linux, Windows Server, automation, and security**.
+
+---
+
+### 📜 Certifications
+
+- **[Scientific Computing with Python](https://www.freecodecamp.org/certification/mojtaba_ataei/python-v9)** — freeCodeCamp
+
+---
+
+### 🌍 Languages
+
+- 🇦🇫 **Dari:** Native
+- 🇩🇪 **German:** C1
+- 🇬🇧 **English:** B1
+
+---
+
+### 💻 Microsoft Office
+
+Excel · Visio · Outlook · Word · PowerPoint
+
+---
+
+### 📫 Connect & Reach Me
+
+- 💼 **LinkedIn:** www.linkedin.com/in/mojtabaataei
+- 📧 **Email:** mojtaba.ataei.network@gmail.com
+- 🐙 **GitHub:** github.com/MojtabaAtaei
