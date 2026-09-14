@@ -7,7 +7,7 @@ IT enthusiast focused on **System Integration, Networking, Automation, and IT Se
 ### 🛠 Skills & Technologies
 
 - **Windows Server & System Administration** · PowerShell
-- **Networking & Cisco** · Network Fundamentals · Cisco Automation with Python
+- **Networking & Cisco** · CCNA Fundamentals · Cisco Automation with Python
 - **Linux & Bash Scripting** · Linux Administration
 - **Python & Automation**
 - **IT Security** · Security Fundamentals
