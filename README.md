@@ -32,7 +32,7 @@ More projects are in progress, mainly around networking, Linux, Windows Server, 
 ## Certification
 
 - **[Scientific Computing with Python](https://www.freecodecamp.org/certification/mojtaba_ataei/python-v9)** — freeCodeCamp
-- **[Network Technician Career Path]([https://www.freecodecamp.org/certification/mojtaba_ataei/python-v9](https://www.netacad.com/certificates/?issuanceId=35f739ad-6c58-49cc-8bad-7ee4cfa74cee))** — cisco academy
+- **[Network Technician Career Path](https://www.netacad.com/certificates/?issuanceId=35f739ad-6c58-49cc-8bad-7ee4cfa74cee)** — cisco academy
 ---
 
 ## Languages
