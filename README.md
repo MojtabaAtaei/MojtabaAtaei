@@ -29,10 +29,12 @@ More projects are in progress, mainly around networking, Linux, Windows Server, 
 
 ---
 
-## Certification
+## Certifications
 
-- **[Scientific Computing with Python](https://www.freecodecamp.org/certification/mojtaba_ataei/python-v9)** — freeCodeCamp
-- **[Network Technician Career Path](https://www.netacad.com/certificates/?issuanceId=35f739ad-6c58-49cc-8bad-7ee4cfa74cee)** — cisco academy
+- [Scientific Computing with Python](https://www.freecodecamp.org/certification/mojtaba_ataei/python-v9) — freeCodeCamp
+- [Network Technician Career Path](https://www.netacad.com/recognitions/verify/35f739ad-6c58-49cc-8bad-7ee4cfa74cee) — Cisco Networking Academy
+- [Introduction to Packet Tracer](https://www.netacad.com/recognitions/verify/d3236e93-3133-4088-960a-566fdf911333) — Cisco Networking Academy
+- [Getting Started with Cisco Packet Tracer](https://www.netacad.com/recognitions/verify/2d61c932-c758-4423-9bc1-7c03a6d9535f) — Cisco Networking Academy
 ---
 
 ## Languages
